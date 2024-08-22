@@ -12,6 +12,7 @@ Click Create repository
 A README file serves as the first point of contact between a project and potential contributors, users, or developers. It is a crucial piece of documentation that provides essential information about the project. A good README can significantly enhance user engagement and contribute to the project's success
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+Public repositories are accessible to everyone on the internet. Private repositories are only accessible to you, people you explicitly share access with, and, for organization
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
