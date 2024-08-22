@@ -15,6 +15,13 @@ A README file serves as the first point of contact between a project and potenti
 Public repositories are accessible to everyone on the internet. Private repositories are only accessible to you, people you explicitly share access with, and, for organization
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+In your repository's list of files, select README.md.
+In the upper right corner of the file view, click to open the file editor.
+In the text box, type some information about yourself.
+Above the new content, click Preview.
+Review the changes you made to the file. ...
+Click Commit changes
+commits are savings of changes made to a project.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
