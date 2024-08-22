@@ -31,7 +31,7 @@ To merge branches locally, use git checkout to switch to the branch you want to 
 A pull request is a proposal to merge a set of changes from one branch into another. In a pull request, collaborators can review and discuss the proposed set of changes before they integrate the changes into the main codebase.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
-A fork is a new repository that shares code and visibility settings with the original “upstream” repository
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository.Forking creates your own copy of a repository in a remote location (for example, GitHub). Your own copy means that you will be able to contribute changes to your copy of the repository without affecting the original repository. Cloning makes a local copy of a repository, not your own copy.Forking will be useful in making changes to owned repository.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
